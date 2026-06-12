@@ -13,9 +13,10 @@ Problema de subcobertura, la compañía maneja un padrón de clientes desactuali
 * ¿Cuántos PDV activos no registrados hay en la zona de interés? 
 * ¿Cuál es el potencial de ventas incremental de aumentar la cuota de mercado?
 # 🧰 Tech Stack
-  # . Python (librerías: )
-  # . OSM (Open Street Map
-  # . QGIS
+  * Lenguajes: Python (librerías: pandas, requests)
+  * Visualización: QGIS
+  * APIs: Google Maps API (Nearby Search, Place Details y Text Search), OpenStreetMap (`Overpass API`)
+    
 # 🏗️  Arquitectura
 
 # 🎯 Business Questions
