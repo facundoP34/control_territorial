@@ -27,4 +27,4 @@ Para economizar el costo del proyecto, pero sin que esto degrade la extracción 
 * El resultado final es una **matriz de datos estandarizada y georreferenciada**, lista para ser integrada en el sistemas de información geográfica (QGIS).
 
 # ✅ Conclusión
-La compañía de consumo masivo tenía una cobertura del 82%. Habiendo una considerable cantidad de comercios de cercanía no atendidos, hasta inclusive supermercados nacionales consolidados en ese territorio.
+La compañía de consumo masivo tenía una cobertura del 82%. Habiendo una considerable cantidad de comercios de cercanía no atendidos, hasta inclusive supermercados nacionales consolidados en ese territorio. 
