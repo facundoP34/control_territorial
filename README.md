@@ -10,8 +10,8 @@ Problema de subcobertura, la compañía maneja un padrón de clientes desactuali
 # 🎯 Business Questions
  . ¿Cuál es el Market Share actual en la zona de interés?
 . ¿Estámos atendiendo a la totalidad de los PDV objetivo?
-## . ¿Cuántos PDV activos no registrados hay en la zona de interés?
-# . ¿Cuál es el potencial de ventas incremental de aumentar la cuota de mercado?
+. ¿Cuántos PDV activos no registrados hay en la zona de interés?
+. ¿Cuál es el potencial de ventas incremental de aumentar la cuota de mercado?
 # 🧰 Tech Stack
   # . Python (librerías: )
   # . OSM (Open Street Map
