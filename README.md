@@ -26,5 +26,8 @@ Para economizar el costo del proyecto, pero sin que esto degrade la extracción 
 * Transformación y Desduplicación: con **Python (Pandas)**, el sistema procesa las respuestas en JSON, normaliza los campos de dirección/coordenadas y aplica una lógica de desduplicación para eliminar solapamientos generados por la cercanía de los radios de búsqueda.
 * El resultado final es una **matriz de datos estandarizada y georreferenciada**, lista para ser integrada en el sistemas de información geográfica (QGIS).
 
+<img width="1124" height="655" alt="mapa" src="https://github.com/user-attachments/assets/714d305b-ec52-4caf-9983-ba0939a8239d" />
+
+
 # ✅ Conclusión
 La compañía de consumo masivo tenía una cobertura del 82%. Habiendo una considerable cantidad de comercios de cercanía no atendidos, hasta inclusive supermercados nacionales consolidados en ese territorio. 
