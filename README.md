@@ -30,4 +30,4 @@ Para economizar el costo del proyecto, pero sin que esto degrade la extracción 
 
 
 # ✅ Conclusión
-La compañía de consumo masivo tenía una cobertura del 82%. Habiendo una considerable cantidad de comercios de cercanía no atendidos, hasta inclusive supermercados nacionales consolidados en ese territorio. 
+La compañía de consumo masivo tenía una cobertura del 82%. Habiendo una considerable cantidad de comercios de cercanía no atendidos en radios censales en donde abunda el consumidor AB y C1. Muchos de los PDV eran supermercados nacionales consolidados en ese territorio. 
